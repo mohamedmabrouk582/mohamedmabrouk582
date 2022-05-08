@@ -10,7 +10,7 @@
   </a>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed_mabrouk)](https://github.com/mohamedmabrouk582/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmabrouk582)](https://github.com/mohamedmabrouk582/github-readme-stats)
 
 <!--
 **mohamedmabrouk582/mohamedmabrouk582** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
