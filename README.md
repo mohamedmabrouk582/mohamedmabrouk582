@@ -7,12 +7,12 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Dubai-UAE-16181d?style=flat-square" alt="Based in Dubai" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Android-since%202017-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android since 2017" />
+  <img src="https://img.shields.io/badge/Android_career-companies_since_2017-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android career at companies since 2017" />
   &nbsp;
   <img src="https://img.shields.io/badge/Arabic%20%26%20English-16181d?style=flat-square" alt="Arabic and English" />
 </p>
 
-Senior Android Engineer at **MBC Group** in Dubai. I have shipped Android products since 2017, from healthcare and on-demand services to live news and short-form video used across the MENA region.
+Senior Android Engineer at **MBC Group** in Dubai. My Android career in companies started in 2017, from healthcare and on-demand services to telecom, and now live news across the MENA region.
 
 The products I work on have to feel immediate. A story should open cleanly in Arabic, a clip should start before the reader loses patience, and the same app has to hold up on a phone, a tablet, a watch, and a TV.
 
@@ -21,7 +21,7 @@ The products I work on have to feel immediate. A story should open cleanly in Ar
 I work on **[Al Arabiya](https://play.google.com/store/apps/details?id=net.alarabiya.android.bo.activity)** and **[Al Hadath](https://play.google.com/store/apps/details?id=net.alarabiya.android.alhadath)**.
 
 - Moved the apps onto **Jetpack Compose**, with **Paging 3**, **Hilt**, and a multi-module structure
-- Built media playback that **pre-caches and pre-loads**, so short video and reels start immediately, on **Media3** and **ExoPlayer**
+- Built media playback that **pre-caches and pre-loads**, so short video and reels start immediately. **Media3** is the player on this work.
 - Added **UI tests** and **integration tests** across the apps
 - The products run on phone, tablet, **Wear OS**, and **Android TV**: live channels, breaking news, and a reading mode
 
@@ -133,7 +133,9 @@ Patient and doctor apps for a clinic journey: symptoms, treatment, recovery, and
 </tr>
 </table>
 
-## How I build
+## Current stack
+
+Tools on the apps I work on now. Media3 is the player for short video on the news apps.
 
 | | |
 | --- | --- |
