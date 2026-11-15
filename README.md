@@ -20,9 +20,9 @@ The products I work on have to feel immediate. A story should open cleanly in Ar
 
 I work on **[Al Arabiya](https://play.google.com/store/apps/details?id=net.alarabiya.android.bo.activity)** and **[Al Hadath](https://play.google.com/store/apps/details?id=net.alarabiya.android.alhadath)**.
 
-- Rewrote the apps in **Jetpack Compose**, with **Paging 3**, **Hilt**, and a multi-module structure
+- Moved the apps onto **Jetpack Compose**, with **Paging 3**, **Hilt**, and a multi-module structure
 - Built media playback that **pre-caches and pre-loads**, so short video and reels start immediately, on **Media3** and **ExoPlayer**
-- Covered the apps with **UI tests** and **integration tests**
+- Added **UI tests** and **integration tests** across the apps
 - The products run on phone, tablet, **Wear OS**, and **Android TV**: live channels, breaking news, and a reading mode
 
 In public, I am also building on-device AI for Android. [Recall](https://github.com/mohamedmabrouk582/Recall) is a private notebook that answers from your own notes. [Android AI Lab](https://github.com/mohamedmabrouk582/Android-Ai-Lab) is the path I am writing from Android engineering into inference, RAG, LiteRT, and Gemini Nano.
