@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-label="Company Android career since 2017. B2C product scope rises from the first role to Al Arabiya and Al Hadath. Payments and marketplace commerce are the JustClean step.">
+  <rect width="1200" height="460" fill="#12141a"/>
+  <text x="56" y="42" fill="#f6f3ec" font-family="Georgia, 'Times New Roman', serif" font-size="26">Where the company work grew</text>
+  <text x="56" y="70" fill="#b7b2a8" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14">B2C is the through-line. Gold is payments and marketplace commerce.</text>
+
+  <line x1="56" y1="348" x2="1144" y2="348" stroke="#2c303a" stroke-width="1"/>
+
+  <!-- 2017 Hypertech -->
+  <rect x="64" y="268" width="168" height="80" rx="6" fill="#2a2e36"/>
+  <text x="148" y="306" text-anchor="middle" fill="#f3efe6" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="600">Company</text>
+  <text x="148" y="326" text-anchor="middle" fill="#c8c2b8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">Android</text>
+  <text x="148" y="374" text-anchor="middle" fill="#f6f3ec" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="600">Hypertech</text>
+  <text x="148" y="394" text-anchor="middle" fill="#8d887f" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">2017  2018</text>
+
+  <!-- 2018 DG-Well -->
+  <rect x="276" y="198" width="168" height="150" rx="6" fill="#4a4034"/>
+  <text x="360" y="258" text-anchor="middle" fill="#f3efe6" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="600">B2C</text>
+  <text x="360" y="280" text-anchor="middle" fill="#e4d8c4" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">Healthcare</text>
+  <text x="360" y="374" text-anchor="middle" fill="#f6f3ec" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="600">DG-Well</text>
+  <text x="360" y="394" text-anchor="middle" fill="#8d887f" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">2018  2020</text>
+
+  <!-- 2021 JustClean: payments + commerce -->
+  <rect x="488" y="128" width="168" height="220" rx="6" fill="#c6a36a"/>
+  <text x="572" y="188" text-anchor="middle" fill="#1c140c" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="600">B2C</text>
+  <text x="572" y="210" text-anchor="middle" fill="#1c140c" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="600">Payments</text>
+  <text x="572" y="230" text-anchor="middle" fill="#3a2c16" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">Checkout</text>
+  <text x="572" y="256" text-anchor="middle" fill="#1c140c" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="600">E-commerce</text>
+  <text x="572" y="276" text-anchor="middle" fill="#3a2c16" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">Marketplace</text>
+  <text x="572" y="374" text-anchor="middle" fill="#f6f3ec" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="600">JustClean</text>
+  <text x="572" y="394" text-anchor="middle" fill="#8d887f" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">2021  2022</text>
+
+  <!-- 2022 Axiom -->
+  <rect x="700" y="128" width="168" height="220" rx="6" fill="#6e5a3a"/>
+  <text x="784" y="230" text-anchor="middle" fill="#f6f3ec" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="600">B2C</text>
+  <text x="784" y="252" text-anchor="middle" fill="#e4d8c4" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">Telecom</text>
+  <text x="784" y="374" text-anchor="middle" fill="#f6f3ec" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="600">Axiom</text>
+  <text x="784" y="394" text-anchor="middle" fill="#8d887f" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">2022  2023</text>
+
+  <!-- 2023 MBC -->
+  <rect x="912" y="96" width="168" height="252" rx="6" fill="#ead9b8"/>
+  <text x="996" y="196" text-anchor="middle" fill="#1c140c" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="600">B2C</text>
+  <text x="996" y="218" text-anchor="middle" fill="#3a2c16" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">News</text>
+  <text x="996" y="240" text-anchor="middle" fill="#3a2c16" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">Phone to TV</text>
+  <text x="996" y="374" text-anchor="middle" fill="#f6f3ec" font-family="ui-sans-serif, system-ui, sans-serif" font-size="14" font-weight="600">MBC Group</text>
+  <text x="996" y="394" text-anchor="middle" fill="#8d887f" font-family="ui-sans-serif, system-ui, sans-serif" font-size="12">2023  now</text>
+
+  <text x="56" y="432" fill="#8d887f" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13">Taller means a broader consumer product. Payments and e-commerce are JustClean, not every year.</text>
+</svg>

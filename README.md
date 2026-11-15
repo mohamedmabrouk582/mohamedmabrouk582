@@ -16,6 +16,20 @@ Senior Android Engineer at **MBC Group** in Dubai. My Android career in companie
 
 The products I work on have to feel immediate. A story should open cleanly in Arabic, a clip should start before the reader loses patience, and the same app has to hold up on a phone, a tablet, a watch, and a TV.
 
+## How the work grew
+
+B2C runs through the companies, from a patient app to a consumer marketplace to regional news. Payments and e-commerce are the **JustClean** step: Checkout inside the app, and a marketplace for laundry, car wash, and home services. Later bars are larger consumer products. They are not more payment work.
+
+<p align="center">
+  <img src="experience.svg" alt="Career chart since 2017. B2C rises from Hypertech to MBC. The gold JustClean bar is B2C, Checkout payments, and marketplace e-commerce." width="100%" />
+</p>
+
+| Focus | Where it is |
+| --- | --- |
+| **B2C** | CareSquare, JustClean, Axiom Telecom, Al Arabiya, and Al Hadath |
+| **E-commerce** | JustClean marketplace: laundry, car wash, and home services |
+| **Payments** | JustClean, in-app Checkout |
+
 ## Now
 
 I work on **[Al Arabiya](https://play.google.com/store/apps/details?id=net.alarabiya.android.bo.activity)** and **[Al Hadath](https://play.google.com/store/apps/details?id=net.alarabiya.android.alhadath)**.
@@ -48,7 +62,7 @@ Android engineering for a telecom company.
 <td width="168" valign="top"><b>2021 — 2022</b><br/>Dubai</td>
 <td valign="top">
 <b>Android Engineer · JustClean</b><br/>
-Redesigned the app, improved performance, shipped car wash, and tightened in-app payments with the Checkout library.
+B2C marketplace for laundry, car wash, and home services. Redesigned the app, improved performance, and took payments with Checkout.
 </td>
 </tr>
 <tr>
