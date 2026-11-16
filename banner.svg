@@ -3,9 +3,9 @@
   <rect width="7" height="280" fill="#c6a36a"/>
   <circle cx="1088" cy="46" r="90" fill="#1b1e27"/>
   <circle cx="1148" cy="210" r="120" fill="#181b22"/>
-  <text x="56" y="118" fill="#f6f3ec" font-family="Georgia, 'Times New Roman', serif" font-size="52">Mohamed Mabrouk</text>
-  <text x="58" y="158" fill="#c6a36a" font-family="Georgia, 'Times New Roman', serif" font-size="22">Senior Android Engineer</text>
-  <text x="58" y="198" fill="#b7b2a8" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="16">MBC Group  ·  Dubai  ·  News, media, and on-device AI</text>
+  <text x="56" y="118" fill="#f6f3ec" font-family="Georgia, Times New Roman, serif" font-size="52">Mohamed Mabrouk</text>
+  <text x="58" y="158" fill="#c6a36a" font-family="Georgia, Times New Roman, serif" font-size="22">Senior Android Engineer</text>
+  <text x="58" y="198" fill="#b7b2a8" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16">MBC Group  |  Dubai  |  News, media, and on-device AI</text>
   <line x1="58" y1="224" x2="460" y2="224" stroke="#2c303a" stroke-width="1"/>
-  <text x="58" y="250" fill="#8d887f" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="13" letter-spacing="2.2">ANDROID CAREER AT COMPANIES  ·  SINCE 2017</text>
+  <text x="58" y="250" fill="#8d887f" font-family="ui-sans-serif, system-ui, sans-serif" font-size="13" letter-spacing="2.2">ANDROID CAREER AT COMPANIES  |  SINCE 2017</text>
 </svg>
