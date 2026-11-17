@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/badge/Arabic%20%26%20English-16181d?style=flat-square" alt="Arabic and English" />
 </p>
 
+<p align="center">
+  <a href="https://mohamedmabrouk582.github.io"><b>mohamedmabrouk582.github.io</b></a>
+</p>
+
 Senior Android Engineer at **MBC Group** in Dubai. My Android career in companies started in 2017, from healthcare and on-demand services to telecom, and now live news across the MENA region.
 
 The products I work on have to feel immediate. A story should open cleanly in Arabic, a clip should start before the reader loses patience, and the same app has to hold up on a phone, a tablet, a watch, and a TV.
